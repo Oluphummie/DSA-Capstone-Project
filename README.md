@@ -8,4 +8,4 @@ The Capstone project helped me utilize my Excel and Sql skills
       For Data Collection
       For Data Cleaning
   
--SQL server (For querying and Analysis)
+- SQL server (For querying and Analysis)
