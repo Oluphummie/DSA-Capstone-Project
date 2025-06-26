@@ -3,5 +3,8 @@ This is where I started my Portfolio building for my Data Analysis Capstone Proj
 
 The Capstone project helped me utilize my Excel and Sql skills
 
-The Capstone project consist of Excel file and SQL file
-
+## Tools Used
+- MS Excel for Data Cleaning
+      For Data Collection
+      For Data Cleaning
+-SQL server (For querying and Analysis)
